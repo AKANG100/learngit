@@ -1,7 +1,2 @@
-#include <iostream>
-using namespace std;
-int main()
-{
-	cout<<"hello world"<<endl;
-	return 0;
-}
+	 		 My  license
+This  Repository is just a space where I learn git!
